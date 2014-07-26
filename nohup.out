@@ -1,0 +1,157 @@
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+	deleted:    .DS_Store
+	deleted:    README.md
+	deleted:    test.py
+	deleted:    test2.py
+
+Untracked files:
+	nohup.out
+
+no changes added to commit
+To https://github.com/AlexProv/AutoPushGit.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/AlexProv/AutoPushGit.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+	deleted:    .DS_Store
+	deleted:    README.md
+	deleted:    test.py
+	deleted:    test2.py
+
+Untracked files:
+	nohup.out
+
+no changes added to commit
+To https://github.com/AlexProv/AutoPushGit.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/AlexProv/AutoPushGit.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[master d4b7614] AutoPush
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/AlexProv/AutoPushGit.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/AlexProv/AutoPushGit.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+On branch master
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+	deleted:    .DS_Store
+	deleted:    README.md
+	deleted:    test.py
+	deleted:    test2.py
+
+Untracked files:
+	nohup.out
+
+no changes added to commit
+To https://github.com/AlexProv/AutoPushGit.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/AlexProv/AutoPushGit.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[master 1ba25b8] AutoPush
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+To https://github.com/AlexProv/AutoPushGit.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/AlexProv/AutoPushGit.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+On branch master
+Your branch is ahead of 'origin/master' by 3 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+	deleted:    README.md
+	deleted:    test.py
+	deleted:    test2.py
+
+Untracked files:
+	nohup.out
+
+no changes added to commit
+To https://github.com/AlexProv/AutoPushGit.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/AlexProv/AutoPushGit.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+On branch master
+Your branch is ahead of 'origin/master' by 3 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+	deleted:    README.md
+	deleted:    test.py
+	deleted:    test2.py
+
+Untracked files:
+	nohup.out
+
+no changes added to commit
+To https://github.com/AlexProv/AutoPushGit.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/AlexProv/AutoPushGit.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+On branch master
+Your branch is ahead of 'origin/master' by 3 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+	deleted:    README.md
+	deleted:    test.py
+	deleted:    test2.py
+
+Untracked files:
+	nohup.out
+
+no changes added to commit
+To https://github.com/AlexProv/AutoPushGit.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/AlexProv/AutoPushGit.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[master 03ffdab] AutoPush
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/AlexProv/AutoPushGit.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/AlexProv/AutoPushGit.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
