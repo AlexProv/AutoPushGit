@@ -26,6 +26,7 @@ while True:
     files = os.listdir(os.getcwd())
     #check for files to commit => will only commit files with the extentions in the exts file
     filesToCommit = []
+    #AAAA TEST
     for f in files: 
         _,ext = os.path.splitext(f)
         if ext == '' or ext in extensionList:
