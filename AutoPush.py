@@ -40,7 +40,7 @@ while True:
         print "Something broke..."
         break
 
-    if index == len(repoList) -1: 
+    if index == (index-1) % len(repoList): 
         time.sleep(INTERVAL_TIME)
 
 
