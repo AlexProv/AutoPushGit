@@ -23,7 +23,7 @@ while True:
     files = []
     for f in os.listdir(os.getcwd()):
         files.append(f)
-    files = os.listdir(os.getcwd()):
+    files = os.listdir(os.getcwd())
     #check for files to commit => will only commit files with the extentions in the exts file
     filesToCommit = []
     for f in files: 
