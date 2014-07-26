@@ -1,0 +1,1 @@
+kill $(ps aux | grep '[p]ython AutoPush.py' | awk '{print $2}')
