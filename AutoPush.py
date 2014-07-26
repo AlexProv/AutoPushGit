@@ -20,9 +20,6 @@ while True:
     index+=1
     os.chdir(path)
 
-    files = []
-    for f in os.listdir(os.getcwd()):
-        files.append(f)
     files = os.listdir(os.getcwd())
     print files
     #check for files to commit => will only commit files with the extentions in the exts file
