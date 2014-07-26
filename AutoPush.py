@@ -1,8 +1,12 @@
 import subprocess
 import os
 import time
+import sys
 
-INTERVAL_TIME = 30
+try:
+    INTERVAL_TIME = int(sys.argv[1])
+except:
+    INTERVAL_TIME = 120
 
 repoDir = os.path.dirname(os.path.realpath(__file__))
 
