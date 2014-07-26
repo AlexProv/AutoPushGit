@@ -2,6 +2,8 @@ import subprocess
 import os
 import time
 
+INTERVAL_TIME = 30
+
 repoDir = os.path.dirname(os.path.realpath(__file__))
 
 repoList = open(repoDir + '/dirs','r').read().split()
@@ -29,21 +31,17 @@ while True:
         #execute shell git command
         for f in filesToCommit:
             add = ['git', 'add', f] 
-            subprocess.call(add)
+            print subprocess.call(add)
         commit = ['git','commit','-m','AutoPush']
-        subprocess.call(commit)
+        print subprocess.call(commit)
         push = ['git','push']
         print subprocess.call(push)
     except:
-        print "SHIT WENT BAD"
+        print "Something broke..."
         break
 
-
-
-    print files 
     if index == len(repoList) -1: 
-        break
-        time.sleep(60*2)
+        time.sleep(INTERVAL_TIME)
 
 
 
