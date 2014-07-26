@@ -13,7 +13,6 @@ repoDir = os.path.dirname(os.path.realpath(__file__))
 repoList = open(repoDir + '/dirs','r').read().split()
 extensionList = open(repoDir + '/exts','r').read().split()
 
-
 index = 0
 while True:    
     path = repoList[(index) % len(repoList)]
