@@ -21,7 +21,6 @@ while True:
     os.chdir(path)
 
     files = os.listdir(os.getcwd())
-    print files
     #check for files to commit => will only commit files with the extentions in the exts file
     filesToCommit = []
 
