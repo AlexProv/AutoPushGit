@@ -1,1 +1,1 @@
-python AutoPush.py 120
+nohup python AutoPush.py 120 &
