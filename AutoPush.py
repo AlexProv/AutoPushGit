@@ -41,6 +41,7 @@ while True:
         break
 
     if index == (index-1) % len(repoList): 
+        print "SLEEEEEEEP"
         time.sleep(INTERVAL_TIME)
 
 
