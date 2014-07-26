@@ -24,23 +24,24 @@ while True:
     for f in os.listdir(os.getcwd()):
         files.append(f)
     files = os.listdir(os.getcwd())
+    print files
     #check for files to commit => will only commit files with the extentions in the exts file
     filesToCommit = []
-    #AAAA TEST
+
     for f in files: 
         _,ext = os.path.splitext(f)
         if ext == '' or ext in extensionList:
             filesToCommit.append(f)
-    print filesToCommit
+
     try:
         #execute shell git command
         for f in filesToCommit:
             add = ['git', 'add', f] 
-            print subprocess.call(add)
+            subprocess.call(add)
         commit = ['git','commit','-m','AutoPush']
-        print subprocess.call(commit)
+        subprocess.call(commit)
         push = ['git','push']
-        print subprocess.call(push)
+        subprocess.call(push)
     except:
         print "Something broke..."
         break
