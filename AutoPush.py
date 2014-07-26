@@ -18,8 +18,7 @@ while True:
     path = repoList[(index) % len(repoList)]
     index+=1
     os.chdir(path)
-    #test
-    
+   
     files = os.listdir(os.getcwd())
     #check for files to commit => will only commit files with the extentions in the exts file
     filesToCommit = []
